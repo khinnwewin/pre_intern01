@@ -1,0 +1,44 @@
+.header{
+    background-color: rgb(0, 23, 128);
+    color: yellow;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.photo1{
+    width: 150px;
+    padding-right: 470px;
+}
+.photo2{
+    width: 530px;
+   
+}
+.footer{
+    background-color: rgb(0, 23, 128);
+    color: yellow;
+    text-align: center;
+    padding:0.1%;
+    
+
+}
+.hr{
+    border-bottom: 3px dotted gray;
+}
+.contact-span{
+    color: rgb(61, 158, 248);
+}
+
+.mainbody2{
+    margin-bottom: 10px;
+    bord
+}
+.Name , .Email , .Subject{
+    padding-right: 100px;
+}
+.Message{
+    padding:50px 100px;
+    
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
